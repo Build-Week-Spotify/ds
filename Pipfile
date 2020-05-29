@@ -15,6 +15,9 @@ spotipy = "*"
 pandas = "*"
 scikit-learn = "*"
 chart-studio = "*"
+flaks-cors = "*"
+flask-cors = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
