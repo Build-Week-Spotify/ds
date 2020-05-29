@@ -15,7 +15,6 @@ spotipy = "*"
 pandas = "*"
 scikit-learn = "*"
 chart-studio = "*"
-flaks-cors = "*"
 flask-cors = "*"
 seaborn = "*"
 
